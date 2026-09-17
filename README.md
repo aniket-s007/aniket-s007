@@ -4,7 +4,7 @@
 
 **Electrical & Computer Engineering | VLSI & RTL Design | FPGA to ASIC**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/aniket-singh/) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/aniket-s007) &nbsp;·&nbsp; ✉️ [Email](mailto:as756@snu.edu.in)
+🔗 [LinkedIn]([https://www.linkedin.com/in/aniket-singh/](https://www.linkedin.com/in/aniket-singh-a0026029a/)) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/aniket-s007) &nbsp;·&nbsp; ✉️ [Email](mailto:as756@snu.edu.in)
 
 </div>
 
