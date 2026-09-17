@@ -49,7 +49,7 @@ Hardware for the FFT of real-valued signals, implementing a 2013 IEEE architectu
 
 Applied to a real-world case study — detecting bearing faults from CWRU vibration data — to answer how few fixed-point bits the design can use before the fault signature disappears.
 
-**Status:** Stage 3 of 4 built and verified; final shuffle/butterfly stage and full synthesis numbers in progress.
+**Status:** Stage 4 of 4 built and verified; final shuffle/butterfly stage, full synthesis numbers, and design modifications in progress.
 
 **Stack:** Verilog · Xilinx Vivado · Python
 
