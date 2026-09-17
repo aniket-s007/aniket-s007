@@ -90,7 +90,7 @@ Architected a full transistor-level 4×4 DRAM using 1T1C (one-transistor one-cap
 </details>
 
 <details>
-<summary><b>📁 Verilog Projects</b></summary>
+<summary><b>📁 Verilog codes</b></summary>
 <br/>
 
 A collection of smaller Verilog designs and digital logic exercises.
